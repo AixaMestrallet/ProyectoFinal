@@ -1,0 +1,27 @@
+header{
+    background-color: aliceblue;
+    font-family:'Poppins', sans-serif; ;
+    margin-top: 0px;
+    img{
+        width: 5em;   
+    }
+    nav{
+        
+        
+        li{
+            list-style: none;
+            text-decoration: none;
+            margin:1em;
+            &:hover{
+                transform: scale(2);
+                transition-duration: 1s;
+                
+
+         a{
+            color:black
+          }
+        }
+      }
+    
+}
+}
